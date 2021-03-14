@@ -9,4 +9,5 @@ When an activity is selected it will generate a list with all the possible locat
 Later, the user can make a reservation (if necessary), in one of the facilities that has an available opening.
 
 More info soon...
+
 *Nejla Subašić, Evelin Piljug and Matej Marinčić*
