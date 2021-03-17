@@ -1,5 +1,4 @@
-# Grupa2-Tim5 (Rekreativci)
-## Healthy spirit
+# Healthy spirit
 ------------
 This application is for exploring all the posibilities to be active in the city of Sarajevo.
 
@@ -8,6 +7,6 @@ When an activity is selected it will generate a list with all the possible locat
 
 Later, the user can make a reservation (if necessary), in one of the facilities that has an available opening.
 
-More info soon...
+More info in our detail specification!
 
 *Nejla Subašić, Evelin Piljug and Matej Marinčić*
