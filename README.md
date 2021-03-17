@@ -10,7 +10,10 @@ Later, the user can make a reservation (if necessary), in one of the facilities 
 More info in our detail specification!
 
 *2021. © Subašić Nejla, Piljug Evelin & Marinčić Matej
+
 University of Sarajevo
+
 Faculty of Electrical Engineering Sarajevo
+
 Department of Computing and Informatics*
 
