@@ -18,6 +18,9 @@ Later, the user can make a reservation (*if necessary*), in one of the facilitie
 
 More info in our detail specification!
 
+
+
+------------
 *2021. © Subašić Nejla, Piljug Evelin & Marinčić Matej*
 
 *University of Sarajevo*
