@@ -1,4 +1,4 @@
-#Healthy spirit
+# Healthy spirit
 ------------
 Our logo is the official olympic mascot "*Vučko*", it represents Sarajevo from 1984 Winter Olympic Games.
 And it is the perfect logo for our app!
