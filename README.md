@@ -5,6 +5,9 @@ And it is the perfect logo for our app!
 <p align="center">
   <img src="https://i.imgur.com/5mHUM4Z.png">
 </p>
+
+
+
 ------------
 This application is for exploring all the posibilities to be active in the city of Sarajevo.
 
