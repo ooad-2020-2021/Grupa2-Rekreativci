@@ -1,5 +1,7 @@
 # Healthy spirit
 ------------
+https://drive.google.com/file/d/1WXAhno0xS3znLE2WsloqYd-QHzLwgvCj/view?usp=sharing
+------------
 This application is for exploring all the posibilities to be active in the city of Sarajevo.
 
 It will give the user a choice to select a certain type of activity, indoor or outdoor.
