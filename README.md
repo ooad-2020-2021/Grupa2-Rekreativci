@@ -1,6 +1,6 @@
 # Healthy spirit
 ------------
-![logo](https://i.imgur.com/5mHUM4Z.pngZ)
+![logo](https://i.imgur.com/5mHUM4Z.png)
 ------------
 This application is for exploring all the posibilities to be active in the city of Sarajevo.
 
