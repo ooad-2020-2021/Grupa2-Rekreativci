@@ -17,6 +17,8 @@ namespace Rekreativci.Models
         [Required]
         public string Prezime { get; set; }
         [Required]
+        // PITAJ DA LI JE OVO DOBRO??!?!?!
+        [RegularExpression(@"[0-9|a-z|A-Z|.|_]*", ErrorMessage = "Dozvoljeno je samo korištenje brojeva, posebnih znakova, velikih i malih slova!")]
         public string KorisnickoIme { get; set; }
         [Required]
         [StringLength(maximumLength: 100, MinimumLength = 7, ErrorMessage = "Vaš password bi trebao imati najmanje 7 znakova!")]

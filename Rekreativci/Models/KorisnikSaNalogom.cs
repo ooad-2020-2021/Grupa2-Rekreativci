@@ -13,7 +13,7 @@ namespace Rekreativci.Models
         [NotMapped]
         public List<Rezervacija> Rezervacije;
         // nije Required jer ne mora korisnik da doda bankovni racun ako ne zeli
-        public BankovniRacun BankovniRacun;
+        public BankovniRacun BankovniRacun { get; set; }
         #endregion
 
         public KorisnikSaNalogom() { }

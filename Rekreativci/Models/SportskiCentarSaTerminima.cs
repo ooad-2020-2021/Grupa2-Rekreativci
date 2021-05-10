@@ -17,5 +17,9 @@ namespace Rekreativci.Models
         public void AddRezervacija(Rezervacija NovaRezervacija) {
             ListaRezervacija.Add(NovaRezervacija);
         }
+        public void RemoveRezervacija(Rezervacija StaraRezervacija)
+        {
+            ListaRezervacija.Remove(StaraRezervacija);
+        }
     }
 }
