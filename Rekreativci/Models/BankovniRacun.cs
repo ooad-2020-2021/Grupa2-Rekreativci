@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Rekreativci.Models
 {
-    public class BankovniRacun
+ 
+    public class BankovniRacun : IRacun // OVO PROVJERI JOS
     {
         #region Properties
         [Required]
@@ -19,8 +20,21 @@ namespace Rekreativci.Models
         [Required]
         [DataType(DataType.Date)]
         public DateTime DatumIsteka { get; set; }
+        // [Required]
+        //public IRacun Racun { get; set; }
+
         #endregion
 
         public BankovniRacun() { }
+
+        public void skiniSaRacuna(double iznos)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void staviNaRacun(double iznos)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

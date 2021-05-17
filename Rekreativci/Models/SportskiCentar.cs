@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Rekreativci.Models
 {
-    public class SportskiCentar
+
+    public class SportskiCentar : IMapa
     {
         #region Properties
         [Required]
@@ -44,5 +45,11 @@ namespace Rekreativci.Models
         public SportskiCentar() { }
         public double GetProsjecnaOcjena() { return ProsjecnaOcjena; } // morao sam dodati jer sam htio da imam pocetnu vrijednost 0
         public void SetProsjecnaOcjena(double novaProsjecnaOcjena) {  ProsjecnaOcjena = novaProsjecnaOcjena; }
+
+        public void PrikaziLokaciju(string adresa)
+        {
+            // TODO implementiraj
+            throw new NotImplementedException();
+        }
     }
 }
