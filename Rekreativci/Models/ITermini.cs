@@ -5,10 +5,8 @@ using System.Threading.Tasks;
 
 namespace Rekreativci.Models
 {
-    public interface IRacun
+    interface ITermini
     {
-        public void SkiniSaRacuna(double iznos);
-
-        public void StaviNaRacun(double iznos);
+        public List<List<Tuple<DateTime, DateTime>>> DajSlobodneTermine(List<Rezervacija> rezervacije);
     }
 }
