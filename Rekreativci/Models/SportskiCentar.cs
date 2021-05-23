@@ -44,6 +44,8 @@ namespace Rekreativci.Models
         [Phone]
         [DisplayName("Kontakt telefon:")]
         public string BrojTelefona { get; set; } // nije Required jer ne mora ga imati svaki Sportski centar
+        [Required]
+        public Sport Sport { get; set; } // da bi se u bazi moglo sve kako treba dodati
         #endregion
 
         public SportskiCentar() { }
