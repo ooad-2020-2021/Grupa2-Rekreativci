@@ -4355,7 +4355,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5hgD/ZwzXxwU="
 							},
-							"name": "LogInSD",
+							"name": "LogInDS",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -4378,7 +4378,7 @@
 											"top": 29,
 											"width": 51.5908203125,
 											"height": 13,
-											"text": "LogInSD"
+											"text": "LogInDS"
 										},
 										{
 											"_type": "LabelView",
@@ -4796,7 +4796,7 @@
 													"top": 47,
 													"width": 101.03173828125,
 													"height": 13,
-													"text": "Baza"
+													"text": "ContextData"
 												},
 												{
 													"_type": "LabelView",
@@ -6454,7 +6454,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5hgD/ZwzXxwU="
 							},
-							"name": "Baza",
+							"name": "ContextData",
 							"represent": {
 								"$ref": "AAAAAAF5hiFzGw1nTHg="
 							},
@@ -6538,8 +6538,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF5hgD/ZwzW/tc="
 					},
-					"name": "Role4",
-					"type": ""
+					"name": "Role4"
 				},
 				{
 					"_type": "UMLAttribute",
@@ -6556,7 +6555,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF5hgD/ZwzW/tc="
 					},
-					"name": "Role6"
+					"name": "Role6",
+					"type": ""
 				}
 			]
 		}
