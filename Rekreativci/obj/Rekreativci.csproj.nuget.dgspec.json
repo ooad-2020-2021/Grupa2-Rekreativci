@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matej Marincic\\Documents\\GitHub\\Grupa2-Rekreativci\\Rekreativci\\Rekreativci.csproj": {}
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matej Marincic\\Documents\\GitHub\\Grupa2-Rekreativci\\Rekreativci\\Rekreativci.csproj": {
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matej Marincic\\Documents\\GitHub\\Grupa2-Rekreativci\\Rekreativci\\Rekreativci.csproj",
+        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj",
         "projectName": "Rekreativci",
-        "projectPath": "C:\\Users\\Matej Marincic\\Documents\\GitHub\\Grupa2-Rekreativci\\Rekreativci\\Rekreativci.csproj",
-        "packagesPath": "C:\\Users\\Matej Marincic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matej Marincic\\Documents\\GitHub\\Grupa2-Rekreativci\\Rekreativci\\obj\\",
+        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matej Marincic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

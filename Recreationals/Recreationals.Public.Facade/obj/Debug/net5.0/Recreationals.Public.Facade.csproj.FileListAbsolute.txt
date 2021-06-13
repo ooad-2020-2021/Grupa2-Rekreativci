@@ -1,0 +1,11 @@
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\Recreationals.Public.Facade.deps.json
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\Recreationals.Public.Facade.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\ref\Recreationals.Public.Facade.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\Recreationals.Public.Facade.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.AssemblyInfo.cs
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\ref\Recreationals.Public.Facade.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.pdb

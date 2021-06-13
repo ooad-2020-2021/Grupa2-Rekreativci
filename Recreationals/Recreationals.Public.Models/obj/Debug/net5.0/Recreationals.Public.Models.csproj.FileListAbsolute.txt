@@ -1,0 +1,11 @@
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\bin\Debug\net5.0\Recreationals.Public.Models.deps.json
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\bin\Debug\net5.0\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\bin\Debug\net5.0\ref\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\bin\Debug\net5.0\Recreationals.Public.Models.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.AssemblyInfo.cs
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\ref\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.pdb

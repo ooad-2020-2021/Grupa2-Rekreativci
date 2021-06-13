@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recreationals.Public.Facade/1.0.0": {
+        "runtime": {
+          "Recreationals.Public.Facade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recreationals.Public.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
