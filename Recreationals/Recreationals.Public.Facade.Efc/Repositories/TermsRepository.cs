@@ -31,8 +31,8 @@ namespace Recreationals.Public.Facade.Efc.Repositories
             Term term = new Term
             {
                 FieldId = req.FieldId.Value,
-                StartTime = req.StartTime.Value,
-                EndTime = req.EndTime.Value,
+                StartTime = req.StartTime,
+                EndTime = req.EndTime,
             };
 
             _dbContext.Terms.Add(term);

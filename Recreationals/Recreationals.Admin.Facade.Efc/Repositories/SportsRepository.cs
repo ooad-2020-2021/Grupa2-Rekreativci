@@ -1,6 +1,8 @@
-﻿using Recreationals.Admin.Facade.Repositories;
+﻿using Microsoft.EntityFrameworkCore;
+using Recreationals.Admin.Facade.Repositories;
 using Recreationals.Admin.Models.Sport;
 using Recreationals.Dal.Context;
+using Recreationals.Dal.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +20,18 @@ namespace Recreationals.Admin.Facade.Efc.Repositories
             _dbContext = dbContext;
         }
 
-        public Task<SportCreateRes> CreateAsync(SportCreateReq req)
+        public async Task<SportCreateRes> CreateAsync(SportCreateReq req)
         {
-            throw new NotImplementedException();
+            Sport sport = new Sport
+            {
+                Name = req.Name,
+                PhotoUrl = req.PhotoUrl
+            };
+
+            _dbContext.Sports.Add(sport);
+            await _dbContext.SaveChangesAsync();
+
+            return new SportCreateRes { Id = sport.Id };
         }
 
         public Task DeleteAsync(SportDeleteReq req)
@@ -28,12 +39,20 @@ namespace Recreationals.Admin.Facade.Efc.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<SportGetListResItem>> GetListAsync(SportGetListReq req)
+        public async Task<IEnumerable<SportGetListResItem>> GetListAsync(SportGetListReq req)
         {
-            throw new NotImplementedException();
+            IEnumerable<SportGetListResItem> res = await _dbContext.Sports
+                .Select(s => new SportGetListResItem
+                {
+                    Id = s.Id,
+                    Name = s.Name
+                })
+                .ToListAsync();
+
+            return res;
         }
 
-        public Task<SportGetUpdateRes> GetUpdateAsync(SportGetUpdateReq req)
+        public async Task<SportGetUpdateRes> GetUpdateAsync(SportGetUpdateReq req)
         {
             throw new NotImplementedException();
         }

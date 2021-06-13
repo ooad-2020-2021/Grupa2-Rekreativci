@@ -47,7 +47,8 @@ namespace Recreationals.Public.Facade.Efc.Repositories
                 {
                     Id = f.Id,
                     SportName = f.Sport.Name,
-                    SportsCenterName = f.SportsCenter.Name
+                    SportsCenterName = f.SportsCenter.Name,
+                    SportsCenterPhotoUrl = f.SportsCenter.PhotoUrl
                 })
                 .ToListAsync();
 

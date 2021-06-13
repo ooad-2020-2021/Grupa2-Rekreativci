@@ -1,8 +1,31 @@
-﻿@{
+﻿@model IEnumerable<Recreationals.Public.Models.Sport.SportGetListResItem>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="header-image">
+    <h1 class="title">
+        SPORTSKI TERENI ZA REKREATIVCE
+    </h1>
 </div>
+
+
+<div class="container">
+    @foreach (var sport in @Model)
+    {
+        <a asp-area="Public" asp-controller="Fields" asp-action="List" asp-route-id="@sport.Id">
+            <div class="data-card">
+                <div class="data-image">
+                    <img src="@sport.PhotoUrl" />
+                </div>
+                <div class="data-title">
+                    <h1>@sport.Name</h1>
+                </div>
+            </div>
+        </a>
+    }
+</div>
+
+
+

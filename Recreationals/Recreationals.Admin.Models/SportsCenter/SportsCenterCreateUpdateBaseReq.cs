@@ -1,6 +1,7 @@
 ﻿using Recreationals.Core.Constraints;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Web.Mvc;
 
 namespace Recreationals.Admin.Models.SportsCenter
 {
@@ -36,13 +37,13 @@ namespace Recreationals.Admin.Models.SportsCenter
         [MaxLength(SportsCenterConstraints.MaxPhoneNumberLength)]
         public string PhoneNumber { get; set; }
 
-        public IList<SportDto> Sports { get; set; }
+        public IList<string> SelectedSports { get; set; }
+        public IList<SelectListItem> AvailableSports { get; set; }
 
-        public class SportDto
+        public SportsCenterCreateUpdateBaseReq()
         {
-            public int Id { get; set; }
-            public string Name { get; set; }
-            public bool IsAvailable { get; set; }
+            SelectedSports = new List<string>();
+            AvailableSports = new List<SelectListItem>();
         }
     }
 }

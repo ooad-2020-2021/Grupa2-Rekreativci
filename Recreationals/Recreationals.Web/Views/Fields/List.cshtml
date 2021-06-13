@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Recreationals.Public.Models.Field.FieldGetListResItem>
+
+<div class="container">
+    @foreach (var field in @Model)
+    {
+        <a asp-area="Public" asp-controller="Fields" asp-action="Details" asp-route-id="@field.Id">
+            <div class="data-card">
+                <div class="data-image">
+                    <img src="@field.SportsCenterPhotoUrl" />
+                </div>
+                <div class="data-title">
+                    <h1>@field.SportsCenterName</h1>
+                </div>
+            </div>
+        </a>
+    }
+</div>

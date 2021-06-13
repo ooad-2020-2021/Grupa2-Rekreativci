@@ -1,0 +1,30 @@
+﻿@model Recreationals.Public.Models.Field.FieldGetDetailsRes
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h1>Rezervisani termini</h1>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Početak</th>
+                        <th>Kraj</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var term in @Model.Terms)
+                    {
+                        <tr>
+                            <th scope="row">@term.StartTime</th>
+                            <td>@term.EndTime</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <span class="badge badge-primary badge-pill">
+                <a class="nav-link text-white" asp-area="Public" asp-controller="Terms" asp-action="TryCreate" asp-route-id="@Model.Id">Rezervisati</a>
+            </span>
+        </div>
+    </div>
+</div>

@@ -9,4 +9,3 @@ C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\ref\Recreationals.Public.Models.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.pdb
-C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Models\obj\Debug\net5.0\Recreationals.Public.Models.csproj.AssemblyReference.cache

@@ -7,6 +7,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Recreationals.Admin.Facade.Efc.Repositories;
+using Recreationals.Admin.Facade.Repositories;
 using Recreationals.Dal.Context;
 using System;
 using System.Collections.Generic;
@@ -36,7 +38,12 @@ namespace Recreationals.Web
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
 
+            services.AddScoped<Recreationals.Admin.Facade.Repositories.ISportsRepository, Recreationals.Admin.Facade.Efc.Repositories.SportsRepository>();
+            services.AddScoped<Recreationals.Admin.Facade.Repositories.ISportsCentersRepository, Recreationals.Admin.Facade.Efc.Repositories.SportsCentersRepository>();
 
+            services.AddScoped<Recreationals.Public.Facade.Repositories.ISportsRepository, Recreationals.Public.Facade.Efc.Repositories.SportsRepository>();
+            services.AddScoped<Recreationals.Public.Facade.Repositories.IFieldsRepository, Recreationals.Public.Facade.Efc.Repositories.FieldsRepository>();
+            services.AddScoped<Recreationals.Public.Facade.Repositories.ITermsRepository, Recreationals.Public.Facade.Efc.Repositories.TermsRepository>();
 
             services.AddControllersWithViews();
         }

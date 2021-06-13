@@ -1,0 +1,27 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Naziv</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var sport in @Model)
+                    {
+                        <tr>
+                            <th scope="row">@sport.Id</th>
+                            <td>@sport.Name</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <span class="badge badge-primary badge-pill">
+                <a class="nav-link text-white" asp-area="Admin" asp-controller="SportsCenters" asp-action="Create">Kreirati</a>
+            </span>
+        </div>
+    </div>
+</div>

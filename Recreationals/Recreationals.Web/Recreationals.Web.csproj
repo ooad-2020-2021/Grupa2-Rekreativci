@@ -14,7 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Recreationals.Admin.Facade.Efc\Recreationals.Admin.Facade.Efc.csproj" />
+    <ProjectReference Include="..\Recreationals.Admin.Facade\Recreationals.Admin.Facade.csproj" />
+    <ProjectReference Include="..\Recreationals.Admin.Models\Recreationals.Admin.Models.csproj" />
     <ProjectReference Include="..\Recreationals.Dal\Recreationals.Dal.csproj" />
+    <ProjectReference Include="..\Recreationals.Public.Facade.Efc\Recreationals.Public.Facade.Efc.csproj" />
+    <ProjectReference Include="..\Recreationals.Public.Facade\Recreationals.Public.Facade.csproj" />
+    <ProjectReference Include="..\Recreationals.Public.Models\Recreationals.Public.Models.csproj" />
   </ItemGroup>
 
 </Project>

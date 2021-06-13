@@ -6,5 +6,6 @@
 
         public string SportName { get; set; }
         public string SportsCenterName { get; set; }
+        public string SportsCenterPhotoUrl { get; set; }
     }
 }

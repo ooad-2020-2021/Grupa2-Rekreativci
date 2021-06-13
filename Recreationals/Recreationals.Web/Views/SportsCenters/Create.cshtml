@@ -1,0 +1,56 @@
+﻿@model Recreationals.Admin.Models.SportsCenter.SportsCenterCreateReq
+
+<div class="container">
+    <div class="shadow p-3 mb-5 bg-light rounded">Kreiranje sportskog centra</div>
+
+    <form asp-area="Admin" asp-controller="SportsCenters" asp-action="Create" method="post">
+        <div class="form-group">
+            <label for="formGroupExampleInput">Naziv</label>
+            @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Opis</label>
+            @Html.TextAreaFor(model => model.Description, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">URL fotografije</label>
+            @Html.TextBoxFor(model => model.PhotoUrl, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Adresa</label>
+            @Html.TextBoxFor(model => model.Address, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Facebook</label>
+            @Html.TextBoxFor(model => model.FacebookUrl, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Website</label>
+            @Html.TextBoxFor(model => model.WebsiteUrl, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">BrojTelefona</label>
+            @Html.TextBoxFor(model => model.PhoneNumber, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            <label for="formGroupExampleInput">Dostupni sportovi</label>
+
+            @foreach (var item in Model.AvailableSports)
+            {
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox"
+                        name="SelectedSports"
+                        value="@item.Value"
+                        @if (Model.SelectedSports.Contains(item.Value)) { <text> checked </text>  } /> @item.Text
+                </label>
+            </div>
+            }
+        </div>
+        <hr />
+        <span class="badge badge-primary badge-pill">
+            <a class="nav-link text-white" asp-area="Admin" asp-controller="SportsCenters" asp-action="List">Nazad</a>
+        </span>
+        <button type="submit" class="btn btn-success">Spasi</button>
+    </form>
+</div>

@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Recreationals.Public.Facade.Repositories;
+using Recreationals.Public.Models.Sport;
 using Recreationals.Web.Models;
-using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace Recreationals.Web.Controllers
@@ -12,15 +12,21 @@ namespace Recreationals.Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private ISportsRepository _sports;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(
+            ILogger<HomeController> logger,
+            ISportsRepository sports)
         {
             _logger = logger;
+            _sports = sports;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<SportGetListResItem> res = await _sports.GetListAsync();
+
+            return View(res);
         }
 
         public IActionResult Privacy()
