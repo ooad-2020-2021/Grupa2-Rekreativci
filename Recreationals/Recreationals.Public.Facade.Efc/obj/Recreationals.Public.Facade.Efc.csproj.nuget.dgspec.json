@@ -4,6 +4,154 @@
     "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
+        "projectName": "Recreationals.Core",
+        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
+        "projectName": "Recreationals.Dal",
+        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
+                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +160,128 @@
         "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj",
         "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
+                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj"
+              },
+              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
+                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj"
+              },
+              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
+        "projectName": "Recreationals.Public.Facade",
+        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "projectName": "Recreationals.Public.Models",
+        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",

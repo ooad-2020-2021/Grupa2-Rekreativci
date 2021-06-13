@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Recreationals.Public.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Recreationals.Public.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recreationals.Public.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Recreationals.Public.Models/1.0.0": {
+      "type": "project",
+      "path": "../Recreationals.Public.Models/Recreationals.Public.Models.csproj",
+      "msbuildProject": "../Recreationals.Public.Models/Recreationals.Public.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Recreationals.Public.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Comp\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+              "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

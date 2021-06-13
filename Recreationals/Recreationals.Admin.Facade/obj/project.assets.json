@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Recreationals.Admin.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Recreationals.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Recreationals.Admin.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recreationals.Admin.Models.dll": {}
+        }
+      },
+      "Recreationals.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Recreationals.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recreationals.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Recreationals.Admin.Models/1.0.0": {
+      "type": "project",
+      "path": "../Recreationals.Admin.Models/Recreationals.Admin.Models.csproj",
+      "msbuildProject": "../Recreationals.Admin.Models/Recreationals.Admin.Models.csproj"
+    },
+    "Recreationals.Core/1.0.0": {
+      "type": "project",
+      "path": "../Recreationals.Core/Recreationals.Core.csproj",
+      "msbuildProject": "../Recreationals.Core/Recreationals.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Recreationals.Admin.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Comp\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Admin.Models\\Recreationals.Admin.Models.csproj": {
+              "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Admin.Models\\Recreationals.Admin.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

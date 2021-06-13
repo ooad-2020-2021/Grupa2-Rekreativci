@@ -9,3 +9,7 @@ C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\ref\Recreationals.Public.Facade.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\bin\Debug\net5.0\Recreationals.Public.Models.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade\obj\Debug\net5.0\Recreationals.Public.Facade.csproj.CopyComplete

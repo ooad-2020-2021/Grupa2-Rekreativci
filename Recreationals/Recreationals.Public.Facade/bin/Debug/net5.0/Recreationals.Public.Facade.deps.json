@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Recreationals.Public.Facade/1.0.0": {
+        "dependencies": {
+          "Recreationals.Public.Models": "1.0.0"
+        },
         "runtime": {
           "Recreationals.Public.Facade.dll": {}
+        }
+      },
+      "Recreationals.Public.Models/1.0.0": {
+        "runtime": {
+          "Recreationals.Public.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Recreationals.Public.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recreationals.Public.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

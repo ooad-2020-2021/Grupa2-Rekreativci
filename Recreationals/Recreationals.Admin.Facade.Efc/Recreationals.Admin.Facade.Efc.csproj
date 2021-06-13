@@ -5,7 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\Recreationals.Admin.Facade\Recreationals.Admin.Facade.csproj" />
+    <ProjectReference Include="..\Recreationals.Admin.Models\Recreationals.Admin.Models.csproj" />
+    <ProjectReference Include="..\Recreationals.Dal\Recreationals.Dal.csproj" />
   </ItemGroup>
 
 </Project>

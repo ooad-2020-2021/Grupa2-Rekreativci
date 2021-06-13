@@ -9,3 +9,7 @@ C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\D
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\Debug\net5.0\Recreationals.Admin.Models.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\Debug\net5.0\ref\Recreationals.Admin.Models.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\Debug\net5.0\Recreationals.Admin.Models.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\Debug\net5.0\Recreationals.Admin.Models.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\bin\Debug\net5.0\Recreationals.Core.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\bin\Debug\net5.0\Recreationals.Core.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Admin.Models\obj\Debug\net5.0\Recreationals.Admin.Models.csproj.CopyComplete

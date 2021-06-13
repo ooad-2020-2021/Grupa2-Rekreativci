@@ -9,3 +9,13 @@ C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\obj\Debug\net5.0\Recreationals.Public.Facade.Efc.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\obj\Debug\net5.0\ref\Recreationals.Public.Facade.Efc.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\obj\Debug\net5.0\Recreationals.Public.Facade.Efc.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Core.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Dal.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Public.Facade.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Public.Models.dll
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Dal.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Public.Facade.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Public.Models.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\bin\Debug\net5.0\Recreationals.Core.pdb
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\obj\Debug\net5.0\Recreationals.Public.Facade.Efc.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Public.Facade.Efc\obj\Debug\net5.0\Recreationals.Public.Facade.Efc.csproj.CopyComplete

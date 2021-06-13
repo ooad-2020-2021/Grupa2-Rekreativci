@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Recreationals.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Recreationals.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recreationals.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Recreationals.Core/1.0.0": {
+      "type": "project",
+      "path": "../Recreationals.Core/Recreationals.Core.csproj",
+      "msbuildProject": "../Recreationals.Core/Recreationals.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Recreationals.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Comp\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
+              "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

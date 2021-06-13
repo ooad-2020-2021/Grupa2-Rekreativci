@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Recreationals.Admin.Facade/1.0.0": {
+        "dependencies": {
+          "Recreationals.Admin.Models": "1.0.0"
+        },
         "runtime": {
           "Recreationals.Admin.Facade.dll": {}
+        }
+      },
+      "Recreationals.Admin.Models/1.0.0": {
+        "dependencies": {
+          "Recreationals.Core": "1.0.0"
+        },
+        "runtime": {
+          "Recreationals.Admin.Models.dll": {}
+        }
+      },
+      "Recreationals.Core/1.0.0": {
+        "runtime": {
+          "Recreationals.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Recreationals.Admin.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recreationals.Admin.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recreationals.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
