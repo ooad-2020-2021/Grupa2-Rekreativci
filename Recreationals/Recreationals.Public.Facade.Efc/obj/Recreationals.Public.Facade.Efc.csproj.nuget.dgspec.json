@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {}
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
         "projectName": "Recreationals.Core",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
         "projectName": "Recreationals.Dal",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
-                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj"
+              "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj": {
+                "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Core\\Recreationals.Core.csproj"
               }
             }
           }
@@ -148,21 +154,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj",
         "projectName": "Recreationals.Public.Facade.Efc",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade.Efc\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade.Efc\\Recreationals.Public.Facade.Efc.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade.Efc\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -176,14 +185,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
-                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj"
+              "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj": {
+                "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Dal\\Recreationals.Dal.csproj"
               },
-              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
-                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj"
+              "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
+                "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj"
               },
-              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
-                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
+              "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+                "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
               }
             }
           }
@@ -212,21 +221,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
         "projectName": "Recreationals.Public.Facade",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Facade\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\Recreationals.Public.Facade.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Facade\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,8 +252,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
-                "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
+              "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+                "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj"
               }
             }
           }
@@ -270,21 +282,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
         "projectName": "Recreationals.Public.Models",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -324,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

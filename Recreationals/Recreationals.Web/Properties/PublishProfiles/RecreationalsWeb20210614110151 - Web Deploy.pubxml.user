@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3Zkxpy5hXkWPyunsnI9jRwAAAAACAAAAAAAQZgAAAAEAACAAAADv3sB3z/svKKWxQmyKnui66KewYwnvNpyKxtmofYYPfAAAAAAOgAAAAAIAACAAAACI33BJwLP+qnpjpsMSAnNYwoNIOSibgjyxC803hQU7nIAAAAD+huTLffsvvcxRcrrESKoOXE5REaibFGg7c0KMw03EfBlw/OXSFPcIzwqjE7SzjNll8H+zbcbSGtSIewEMO1rl+uncIitD47aPbQ9OUk+s+IVHClmFcDuE8262qFiPlt5Bw0J7HamZr88LVtH2Eq+8VAG8pY43xZCQb9864ucxZ0AAAACe4NzlhpJCuB9EVIzmhBpygRNDCRUo4XwtPr95V4pPwu0kkJcV+neDYhkvFKfKZMrjTz2WCT6otA8YwLT0fPYp</EncryptedPassword>
+    <History>True|2021-06-14T10:05:43.9851934Z;True|2021-06-14T11:05:38.5499325+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-Recreationals.Web-9B970082-B430-45C6-A082-9C77F050BFDA%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

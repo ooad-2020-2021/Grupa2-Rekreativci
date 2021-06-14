@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Recreationals.Core/1.0.0": {
+        "runtime": {
+          "Recreationals.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recreationals.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

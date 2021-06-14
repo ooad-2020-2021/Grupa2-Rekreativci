@@ -1,0 +1,12 @@
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\bin\Release\net5.0\Recreationals.Public.Models.deps.json
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\bin\Release\net5.0\Recreationals.Public.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\bin\Release\net5.0\ref\Recreationals.Public.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\bin\Release\net5.0\Recreationals.Public.Models.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.csprojAssemblyReference.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.AssemblyInfoInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.AssemblyInfo.cs
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.csproj.CoreCompileInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\ref\Recreationals.Public.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Public.Models\obj\Release\net5.0\Recreationals.Public.Models.pdb

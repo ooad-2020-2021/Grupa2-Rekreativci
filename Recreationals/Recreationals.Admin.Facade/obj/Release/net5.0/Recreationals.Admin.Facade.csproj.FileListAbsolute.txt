@@ -1,0 +1,17 @@
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Admin.Facade.deps.json
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Admin.Facade.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\ref\Recreationals.Admin.Facade.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Admin.Facade.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Admin.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Admin.Models.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\bin\Release\net5.0\Recreationals.Core.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.csprojAssemblyReference.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.AssemblyInfoInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.AssemblyInfo.cs
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.csproj.CoreCompileInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.csproj.CopyComplete
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\ref\Recreationals.Admin.Facade.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Facade\obj\Release\net5.0\Recreationals.Admin.Facade.pdb

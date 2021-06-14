@@ -9,3 +9,15 @@ C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Core\obj\Debug\net
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Core\obj\Debug\net5.0\ref\Recreationals.Core.dll
 C:\Users\Comp\Desktop\Rekreativci\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\bin\Debug\net5.0\Recreationals.Core.deps.json
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\bin\Debug\net5.0\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\bin\Debug\net5.0\ref\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\bin\Debug\net5.0\Recreationals.Core.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.csprojAssemblyReference.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.AssemblyInfoInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.AssemblyInfo.cs
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.csproj.CoreCompileInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\ref\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Core\obj\Debug\net5.0\Recreationals.Core.pdb

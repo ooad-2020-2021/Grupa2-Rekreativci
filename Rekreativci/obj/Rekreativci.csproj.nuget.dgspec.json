@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj": {}
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Rekreativci\\Rekreativci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Rekreativci\\Rekreativci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Rekreativci\\Rekreativci.csproj",
         "projectName": "Rekreativci",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\Rekreativci.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Rekreativci\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Rekreativci\\Rekreativci.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Rekreativci\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

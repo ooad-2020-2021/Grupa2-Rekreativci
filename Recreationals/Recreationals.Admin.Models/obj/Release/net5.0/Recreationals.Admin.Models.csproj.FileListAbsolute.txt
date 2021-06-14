@@ -1,0 +1,15 @@
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\Recreationals.Admin.Models.deps.json
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\Recreationals.Admin.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\ref\Recreationals.Admin.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\Recreationals.Admin.Models.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\Recreationals.Core.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\bin\Release\net5.0\Recreationals.Core.pdb
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.csprojAssemblyReference.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.AssemblyInfoInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.AssemblyInfo.cs
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.csproj.CoreCompileInputs.cache
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.csproj.CopyComplete
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\ref\Recreationals.Admin.Models.dll
+C:\Users\PiLjA\OneDrive\Desktop\ooad\Recreationals\Recreationals.Admin.Models\obj\Release\net5.0\Recreationals.Admin.Models.pdb

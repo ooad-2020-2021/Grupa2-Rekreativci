@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ibbIjCSBMqcre4Njku0WmdZ+Jy9gYiloh6MTlUQVo3ExUWa8rezAa3P1pZwxhCvLmR3nexa0vUnQjNUWvNQ1Zg==",
+  "dgSpecHash": "tekubvwFY8ORFszaea7wwA0J92R6+iycQVuNq21b4wfbS9fr3YVo2KTNb8LCdLK4CSzPZLTfbsRkoRAQTKD6Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Admin.Facade\\Recreationals.Admin.Facade.csproj",
+  "projectFilePath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Admin.Facade\\Recreationals.Admin.Facade.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
-    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
-    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
-    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
+    "C:\\Users\\PiLjA\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
+    "C:\\Users\\PiLjA\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
+    "C:\\Users\\PiLjA\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
+    "C:\\Users\\PiLjA\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
   ],
   "logs": [
     {

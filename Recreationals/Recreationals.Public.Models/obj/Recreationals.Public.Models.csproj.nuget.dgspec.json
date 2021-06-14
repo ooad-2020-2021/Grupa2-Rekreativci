@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {}
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
+    "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "projectUniqueName": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
         "projectName": "Recreationals.Public.Models",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
-        "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Rekreativci\\Recreationals\\Recreationals.Public.Models\\obj\\",
+        "projectPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\Recreationals.Public.Models.csproj",
+        "packagesPath": "C:\\Users\\PiLjA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PiLjA\\OneDrive\\Desktop\\ooad\\Recreationals\\Recreationals.Public.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PiLjA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
